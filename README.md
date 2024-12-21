@@ -49,13 +49,12 @@ Este é um aplicativo Android que implementa autenticação de usuários usando 
 ## 🖼 Screenshots
 
 ### Tela de Login
-Adicione uma imagem aqui:
-
 <img src="https://github.com/Micael-Resende/App_Login-Firebase/blob/main/images/app.jpg" alt="" width="300">
 
 ### Tela de Registro
-Adicione uma imagem aqui:
+<img src="https://github.com/Micael-Resende/App_Login-Firebase/blob/main/images/registro.jpg" alt="" width="300">
 
+### Usuário cadastrado
 <img src="https://github.com/Micael-Resende/App_Login-Firebase/blob/main/images/login-auth.jpg" alt="" width="300">
 
 ---
